@@ -1,6 +1,8 @@
 #include <Servo.h>          //Servo motor library. This is standard library
 #include <NewPing.h>        //Ultrasonic sensor function library. You must install this library
 
+//This code is not very good but it was intended this way to make the car a crackhead
+
 //our L298N control pins
 const int LeftMotorForward = 4;
 const int LeftMotorBackward = 5;
